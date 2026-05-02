@@ -1,7 +1,7 @@
 # Network Intrusion Detection System Using Machine Learning Algorithms
 ## Overview
 
-This project implements a machine learning-based Network Intrusion Detection System (NIDS) evaluated on two benchmark datasets — NSL-KDD and UNSW-NB15. It extends the base paper by Tahri et al. (2022) by introducing a structured preprocessing pipeline and expanding the classifier comparison from three algorithms to six.
+This project implements a machine learning-based Network Intrusion Detection System (NIDS) evaluated on two benchmark datasets — NSL-KDD and UNSW-NB15. It extends the base paper by introducing a structured preprocessing pipeline and expanding the classifier comparison from three algorithms to six.
 
 ---
 
