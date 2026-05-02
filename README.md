@@ -21,11 +21,9 @@ This project implements a machine learning-based Network Intrusion Detection Sys
 The notebooks require the following dataset files, which are not included in this repository and must be downloaded separately.
 
 - **NSL-KDD** — `KDDTrain+.txt` and `KDDTest+.txt`
-  Download from: https://www.unb.ca/cic/datasets/nsl.html
-
+- 
 - **UNSW-NB15** — `UNSW_NB15_training-set.csv` and `UNSW_NB15_testing-set.csv`
-  Download from: https://research.unsw.edu.au/projects/unsw-nb15-dataset
-
+- 
 Update the file paths in the data loading cells of each notebook to point to your local copies before running.
 
 ---
@@ -79,7 +77,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 ```
 
 ---
-
-## Reference
-
-Tahri, R., Balouki, Y., Jarrar, A., & Lasbahani, A. (2022). *Intrusion Detection System Using Machine Learning Algorithms.* ITM Web of Conferences, 46, 02003. https://doi.org/10.1051/itmconf/20224602003
