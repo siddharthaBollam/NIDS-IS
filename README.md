@@ -11,7 +11,7 @@ This project implements a machine learning-based Network Intrusion Detection Sys
 |------|-------------|
 | `NIDS_NSL-KDD` | Full pipeline implementation on the NSL-KDD dataset |
 | `NIDS_UNSW-NB15` | Full pipeline implementation on the UNSW-NB15 dataset |
-| `Intrusion_Detection_System_Using_machine_learning_.pdf` | Base paper by Tahri et al. (2022) |
+| `Intrusion_Detection_System_Using_machine_learning_.pdf` | Base paper |
 | `Presentation` | Project presentation slides |
 
 ---
