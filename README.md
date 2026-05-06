@@ -61,8 +61,6 @@ Random Forest achieved the highest cross-validation score on both datasets, outp
 
 ## Videos
 
-This section contains video demonstrations and tutorials for the project:
-
 https://drive.google.com/file/d/19OCAXg1bP6k_9TwcgD68Hi_5THzoXNxz/view?usp=sharing
 
 For more information, visit the [Presentation](Presentation/) folder for slides.
