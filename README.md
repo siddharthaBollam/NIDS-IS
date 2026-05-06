@@ -1,7 +1,7 @@
 # Network Intrusion Detection System Using Machine Learning Algorithms
 ## Overview
 
-This project implements a machine learning-based Network Intrusion Detection System (NIDS) evaluated on two benchmark datasets — NSL-KDD and UNSW-NB15. It extends the base paper by introducing a structured preprocessing pipeline and expanding the classifier comparison from three algorithms to six.
+This project implements a machine learning-based Network Intrusion Detection System (NIDS) evaluated on two benchmark datasets — NSL-KDD and UNSW-NB15. It extends the base paper by introducing a stronger ensemble approach and comprehensive evaluation.
 
 ---
 
@@ -56,6 +56,19 @@ Both notebooks follow the same end-to-end pipeline:
 | Naive Bayes | 95.58% | 77.52% |
 
 Random Forest achieved the highest cross-validation score on both datasets, outperforming the base paper's best result (SVM at 97.77% on UNSW-NB15 and 97.29% on NSL-KDD).
+
+---
+
+## Videos
+
+This section contains video demonstrations and tutorials for the project:
+
+- **Project Overview** — High-level introduction to the NIDS system architecture and machine learning approach
+- **Dataset Exploration** — Visual walkthrough of NSL-KDD and UNSW-NB15 datasets
+- **Model Training** — Step-by-step guide to training and evaluating machine learning classifiers
+- **Results Analysis** — Detailed analysis of model performance and comparison across algorithms
+
+For more information, visit the [Presentation](Presentation/) folder for slides.
 
 ---
 
