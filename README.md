@@ -42,7 +42,7 @@ Both notebooks follow the same end-to-end pipeline:
 8. **Model Training** — Six classifiers: SVM, KNN, Naive Bayes, Decision Tree, Random Forest, Logistic Regression
 9. **Evaluation** — 10-fold cross-validation, accuracy, confusion matrix, classification report
 
----
+----
 
 ## Results
 
