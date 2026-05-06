@@ -63,10 +63,7 @@ Random Forest achieved the highest cross-validation score on both datasets, outp
 
 This section contains video demonstrations and tutorials for the project:
 
-- **Project Overview** — High-level introduction to the NIDS system architecture and machine learning approach
-- **Dataset Exploration** — Visual walkthrough of NSL-KDD and UNSW-NB15 datasets
-- **Model Training** — Step-by-step guide to training and evaluating machine learning classifiers
-- **Results Analysis** — Detailed analysis of model performance and comparison across algorithms
+https://drive.google.com/file/d/19OCAXg1bP6k_9TwcgD68Hi_5THzoXNxz/view?usp=sharing
 
 For more information, visit the [Presentation](Presentation/) folder for slides.
 
